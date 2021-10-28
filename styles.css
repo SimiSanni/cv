@@ -22,6 +22,11 @@ a {
   color: #906E58;
 }
 
+a:hover {
+  color:white;
+  text-decoration:none;
+}
+
 h1 {
   font-family: 'Gloria Hallelujah', cursive;
   color: #906E58;
