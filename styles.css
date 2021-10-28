@@ -7,7 +7,12 @@ body {
 
 hr {
   border-style: none;
-  
+  border-top-style: dotted;
+  border-color:#906E58;
+  border-width: 8px;
+  height: 0px;
+  width: 70%;
+
 
 
 }
