@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Gloria+Hallelujah&family=Indie+Flower&display=swap');
+
+
+body {
+  background-color: RGB(100, 54, 38);
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color:#906E58;
+  border-width: 8px;
+  height: 0px;
+  width: 5%;
+
+}
+
+
+h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+  color: #906E58;
+}
+
+li,td,thead {
+  font-family: 'Indie Flower', cursive;
+  color:#BC815F;
+}
+
+td, thead {
+  font-size:25px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 24px;
+  font-family: 'indie flower', cursive;
+  color: #BC815F;
+}
+
+p2 {
+  font-size: 25px;
+  font-family: 'Cedarville Cursive', cursive;
+  color:#BC815F;
+
+}
+
+
+
+h3 {
+  font-size: 30px;
+  font-family: 'Gloria Hallelujah', cursive;
+  color: #906E58;
+}
+
+li {
+  font-size: 26px;
+}
